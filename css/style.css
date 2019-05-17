@@ -4,7 +4,8 @@
     box-sizing: border-box;
 }
 
-html, body {
+html,
+body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.7em;
 }
@@ -14,7 +15,9 @@ a {
     text-decoration: none;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     padding-bottom: 20px;
 }
 
@@ -33,16 +36,23 @@ p {
     display: inline-block;
     float: left;
     color: white;
-
 }
 
+.btn {
+    display: inline-block;
+    font-size: 18px;
+    color: #fff;
+    background: #333;
+    padding: 13px 20px;
+    border: none;
+    cursor: pointer;
+}
 
 #navbar {
     overflow: auto;
     background: #333;
     color: #fff;
 }
-
 
 #navbar a {
     color: #fff;
@@ -74,47 +84,48 @@ p {
     color: #f7c08a;
 }
 
-
 #showcase {
     background: url("../image/showcase.jpg") no-repeat center;
     display: block;
     background-size: cover;
     height: 600px;
-
 }
 
-#showcase .container{
+#showcase .container {
     height: 700px;
 }
 
-.text-primary
-{
+.text-primary {
     color: #f7c08a;
 }
-.showcase-content
-{
+
+.showcase-content {
     margin-top: 200px;
     text-align: center;
     color: white;
 }
-.showcase-content .btn
-{
+
+.showcase-content .btn {
     border: 1px solid black;
     color: white;
     font-size: 20px;
     padding: 10px 20px;
     box-sizing: border-box;
 }
-.showcase-content h1
-{
+
+.showcase-content .btn:hover {
+    background: #f7c08a;
+    color: #333
+}
+
+.showcase-content h1 {
     font-size: 60px;
 }
-.showcase-content .lead
-{
+
+.showcase-content .lead {
     font-size: 20px;
     padding: 15px;
 }
-
 
 #home-info {
     height: 400px;
@@ -131,6 +142,9 @@ p {
 #home-info .info-content {
     float: right;
     width: 50%;
+    text-align: center;
+    padding: 50px;
+    overflow: hidden;
 }
 
 .box {
@@ -159,4 +173,78 @@ p {
 
 .clr {
     clear: both;
+}
+
+.bg-dark {
+    background: #333;
+    color: #fff;
+}
+
+.btn-light {
+    color: black;
+    background: white;
+}
+
+.btn-light:hover {
+    background: #f7c08a;
+    color: #333;
+}
+
+.l-heading {
+    font-size: 40px;
+}
+
+.py-3 {
+    padding: 30px 20px;
+}
+
+#about-info .info-left {
+    float: left;
+    width: 50%;
+    min-height: 100px;
+}
+
+#about-info .info-right {
+    float: right;
+    width: 50%;
+    min-height: 100px;
+}
+
+#about-info .info-right img {
+    display: block;
+    margin: auto;
+    width: 70%;
+    border-radius: 50%;
+}
+
+.testimonial {
+    min-height: 130px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+
+#testimonials h2 {
+    color: #fff;
+    text-align: center;
+    padding-bottom: 40px;
+    margin-top: 70px;
+}
+
+#testimonials {
+    background: url(../image/test-bg.jpg) no-repeat center;
+    background-size: cover;
+    height: 600px;
+}
+
+.testimonial img {
+    border-radius: 50px;
+    max-height: 100px;
+    margin-right: 20px;
+    float: left;
+    width: 100px;
+    margin: 18px;
+}
+
+.testimonial p {
+    padding: 20px;
 }
