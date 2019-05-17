@@ -248,3 +248,23 @@ p {
 .testimonial p {
     padding: 20px;
 }
+
+.form-group label {
+    display: block;
+    margin: 5px 0px;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 20px;
+    border: 1px #ddd solid;
+}
+
+.form-group textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 20px;
+    height: 200px;
+    border: 1px #ddd solid;
+}
