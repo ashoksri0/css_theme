@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03eead4f-2298-4624-9f86-542ef2cf2db1" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" column="30" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="30" />
+              <folding>
+                <element signature="e#2917#2923#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="94" column="1" selection-start-line="94" selection-start-column="1" selection-end-line="94" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>container</find>
+      <find>navbar</find>
+      <find>feATURES</find>
+      <find>features</find>
+      <find>bg-primary</find>
+      <find>main-footer</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/01_basic_layout.html" />
+        <option value="$PROJECT_DIR$/09_ids_class.html" />
+        <option value="$PROJECT_DIR$/02_selectors._2html" />
+        <option value="$PROJECT_DIR$/02_selectors_2.html" />
+        <option value="$PROJECT_DIR$/05_backgrounds_borders_2.html" />
+        <option value="$PROJECT_DIR$/07_float_align2.html" />
+        <option value="$PROJECT_DIR$/08_links_buttons2.html" />
+        <option value="$PROJECT_DIR$/09_menus.html" />
+        <option value="$PROJECT_DIR$/09_menus2.html" />
+        <option value="$PROJECT_DIR$/10_inline_block_2.html" />
+        <option value="$PROJECT_DIR$/11_position2.html" />
+        <option value="$PROJECT_DIR$/12_form_styling2.html" />
+        <option value="$PROJECT_DIR$/01_basic.html" />
+        <option value="$PROJECT_DIR$/css/css.css" />
+        <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/contact.html" />
+        <option value="E:/learnings/videos/learnvideos/[FreeTutorials.Eu] Udemy - Modern HTML &amp; CSS From The Beginning/4. Hotel Website/hotel_website/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="20" />
+    <option name="y" value="480" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="css_tut" type="b2602c69:ProjectViewProjectNode" />
+              <item name="css_tut" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="css_tut" type="b2602c69:ProjectViewProjectNode" />
+              <item name="css_tut" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pt3/archon-modular-be-main/archon-modular-be/saml-sso" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\css_tut\image" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\css_tut\image" />
+      <recent name="D:\workspace\css_tut" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03eead4f-2298-4624-9f86-542ef2cf2db1" name="Default Changelist" comment="" />
+      <created>1552749582519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552749582519</updated>
+      <workItem from="1552749586639" duration="5122000" />
+      <workItem from="1552805041033" duration="693000" />
+      <workItem from="1552806309617" duration="98000" />
+      <workItem from="1552806582124" duration="2985000" />
+      <workItem from="1552837665822" duration="2182000" />
+      <workItem from="1553010473535" duration="7032000" />
+      <workItem from="1553093334040" duration="1402000" />
+      <workItem from="1553180830292" duration="1224000" />
+      <workItem from="1553322224418" duration="19584000" />
+      <workItem from="1553349540032" duration="5125000" />
+      <workItem from="1553526349989" duration="4487000" />
+      <workItem from="1553534036019" duration="925000" />
+      <workItem from="1553565631559" duration="2042000" />
+      <workItem from="1553613192202" duration="32000" />
+      <workItem from="1553613566042" duration="663000" />
+      <workItem from="1555431615803" duration="599000" />
+      <workItem from="1555439886508" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="54230000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22818792" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Learn" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.329429" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/01_basic_layout.html" />
+    <entry file="file://$PROJECT_DIR$/02_live_server.html" />
+    <entry file="file://$PROJECT_DIR$/03_meta_tags.html" />
+    <entry file="file://$PROJECT_DIR$/04_typography.html" />
+    <entry file="file://$PROJECT_DIR$/05_links_images.html" />
+    <entry file="file://$PROJECT_DIR$/06_lists_tables.html" />
+    <entry file="file://$PROJECT_DIR$/10_entities.html" />
+    <entry file="file://$PROJECT_DIR$/07_forms_input.html" />
+    <entry file="file://$PROJECT_DIR$/08_block_inline.html" />
+    <entry file="file://$PROJECT_DIR$/11_html5_semantics.html" />
+    <entry file="file://$PROJECT_DIR$/09_ids_class.html" />
+    <entry file="file://$PROJECT_DIR$/02_selectors_2.html" />
+    <entry file="file://$PROJECT_DIR$/02_selectors.html" />
+    <entry file="file://$PROJECT_DIR$/img/stars.jpg" />
+    <entry file="file://$PROJECT_DIR$/05_backgrounds_borders.html" />
+    <entry file="file://$PROJECT_DIR$/05_backgrounds_borders_2.html" />
+    <entry file="file://$PROJECT_DIR$/07_float_align2.html" />
+    <entry file="file://$PROJECT_DIR$/07_float_align.html" />
+    <entry file="file://$PROJECT_DIR$/08_links_buttons2.html" />
+    <entry file="file://$PROJECT_DIR$/08_links_buttons.html" />
+    <entry file="file://$PROJECT_DIR$/09_menus2.html" />
+    <entry file="file://$PROJECT_DIR$/09_menus.html" />
+    <entry file="file://$PROJECT_DIR$/10_inline_block_2.html" />
+    <entry file="file://$PROJECT_DIR$/10_inline_block.html" />
+    <entry file="file://$PROJECT_DIR$/11_position.html" />
+    <entry file="file://$PROJECT_DIR$/11_position2.html" />
+    <entry file="file://$PROJECT_DIR$/12_form_styling.html" />
+    <entry file="file://$PROJECT_DIR$/12_form_styling2.html" />
+    <entry file="file://$PROJECT_DIR$/01_basic.html" />
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-467">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/person-1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/person-2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/test-bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/showcase.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/photo-2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/photo-1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://E:/learnings/videos/learnvideos/[FreeTutorials.Eu] Udemy - Modern HTML &amp; CSS From The Beginning/4. Hotel Website/hotel_website/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="77" selection-start-line="77" selection-end-line="79" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="30" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="30" />
+          <folding>
+            <element signature="e#2917#2923#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="94" column="1" selection-start-line="94" selection-start-column="1" selection-end-line="94" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
